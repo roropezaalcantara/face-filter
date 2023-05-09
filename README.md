@@ -21,11 +21,15 @@ https://pysource.com/2019/03/25/pigs-nose-instagram-face-filter-opencv-with-pyth
 
 Install Guide-
 
-1. Install Visual Studio with Desktop Development with C++ (ensure cmake tools for windows is checked)
+1.  Install latest version of Python
+
+    https://www.python.org/downloads/
+
+2.  Install Visual Studio with Desktop Development with C++ (ensure cmake tools for windows is checked)
 
     https://visualstudio.microsoft.com/
     
-2. Install required packages with pip (commands below)
+2. Install required packages with pip (commands below) or run 'install.bat'
 
     *may require administrative privileges
     
