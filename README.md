@@ -22,6 +22,8 @@ Install Guide-
     pip install dlib
     pip install opencv-python
     pip install imutils
+3. Download 'shape_predictor.dat' (and optional pngs and test video) and place within same directory
+   link: https://www.dropbox.com/sh/ngk5k7lxl976plr/AADSakT3wzO0n_zhOtwcZ7kda?dl=0
 
 [TODO]
 - Improve developer readability
